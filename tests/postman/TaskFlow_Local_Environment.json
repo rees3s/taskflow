@@ -1,0 +1,22 @@
+{
+	"id": "9b28c9f3-a142-4dca-b16d-f3c1f5058629",
+	"name": "TaskFlow Local",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "http://127.0.0.1:8000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "task_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-04-20T05:32:36.725Z",
+	"_postman_exported_using": "Postman/12.7.0"
+}
